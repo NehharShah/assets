@@ -3,6 +3,8 @@
     "website": "https://carbonzero.finance/",
     "description": "A decentralized economic model, dedicated to building an ecosystem for lowering carbon through engineered solutions.",
     "symbol": "CZO",
+    "explorer" : "https://etherscan.io/token/0xd136d26cc8c45d8a9ffb49a3f5b83c729872d1c7",
+    "id" : "0xd136d26cc8c45d8a9ffb49a3f5b83c729872d1c7",
     "type": "Token",
     "decimals": 18,
     "status": "active",
